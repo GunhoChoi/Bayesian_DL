@@ -10,7 +10,7 @@ Let's understand about Bayesian Deep Learning
 
 ## Bayesian Hyperparameter Optimization
 
-- https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf
+- Harvard A Tutorial on Bayesian Optimization for Machine Learning(https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
 - https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
 - https://jmhessel.github.io/Bayesian-Optimization/
 - https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/
