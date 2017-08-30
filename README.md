@@ -8,6 +8,10 @@ Let's understand about Bayesian Deep Learning
 - Awesome Bayesian Deep Learning (https://github.com/robi56/awesome-bayesian-deep-learning)
 - History of Bayesian Neural Networks (https://youtu.be/FD8l2vPU5FY, http://bayesiandeeplearning.org/slides/nips16bayesdeep.pdf)
 
+## Lectures
+
+- Oxford University Bayesian Statistics (https://youtu.be/U1HbB0ATZ_A?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
+
 ## Bayesian Hyperparameter Optimization
 
 - Harvard A Tutorial on Bayesian Optimization for Machine Learning(https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
