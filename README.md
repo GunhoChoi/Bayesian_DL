@@ -1,5 +1,6 @@
-# Bayesian_DL
-Let's understand about Bayesian Deep Learning
+# Bayesian Deep Learning
+
+Let's understand Bayesian Deep Learning
 
 ## What is Bayesian Deep Learning?
 
