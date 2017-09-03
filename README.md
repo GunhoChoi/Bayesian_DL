@@ -13,8 +13,11 @@ Let's understand Bayesian Deep Learning
 
 - Oxford University Bayesian Statistics (https://youtu.be/U1HbB0ATZ_A?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
 
-## Bayesian Hyperparameter Optimization
+## Distributions
 
+- Why divide the sample variance by N-1(http://www.visiondummy.com/2014/03/divide-variance-n-1/)
+
+## Bayesian Hyperparameter Optimization
 - Harvard A Tutorial on Bayesian Optimization for Machine Learning(https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
 - https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
 - https://jmhessel.github.io/Bayesian-Optimization/
