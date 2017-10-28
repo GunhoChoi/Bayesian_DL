@@ -28,3 +28,7 @@ Let's understand Bayesian Deep Learning
 - https://nlpers.blogspot.nl/2014/10/hyperparameter-search-bayesian.html
 - http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html
 - Siraj Raval (https://github.com/llSourcell/hyperparameter_optimization_strategies)
+
+## Githubs
+
+- Pytorch Uncertainty Implementations(https://github.com/napsternxg/pytorch-practice)
